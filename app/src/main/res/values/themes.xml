@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HealthTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2E7D8F</item>
+        <item name="colorPrimaryDark">#1B5E6B</item>
+        <item name="colorAccent">#2E7D8F</item>
+    </style>
+</resources>
